@@ -1,0 +1,23 @@
+E:\Praktiks\Pogorelov\Aurhorization 3.0\Aurhorization 3.0\bin\Debug\net6.0-windows\Aurhorization 3.0.exe
+E:\Praktiks\Pogorelov\Aurhorization 3.0\Aurhorization 3.0\bin\Debug\net6.0-windows\Aurhorization 3.0.deps.json
+E:\Praktiks\Pogorelov\Aurhorization 3.0\Aurhorization 3.0\bin\Debug\net6.0-windows\Aurhorization 3.0.runtimeconfig.json
+E:\Praktiks\Pogorelov\Aurhorization 3.0\Aurhorization 3.0\bin\Debug\net6.0-windows\Aurhorization 3.0.dll
+E:\Praktiks\Pogorelov\Aurhorization 3.0\Aurhorization 3.0\bin\Debug\net6.0-windows\Aurhorization 3.0.pdb
+E:\Praktiks\Pogorelov\Aurhorization 3.0\Aurhorization 3.0\obj\Debug\net6.0-windows\Aurhorization 3.0.csproj.AssemblyReference.cache
+E:\Praktiks\Pogorelov\Aurhorization 3.0\Aurhorization 3.0\obj\Debug\net6.0-windows\View\AurhorizationWindow.g.cs
+E:\Praktiks\Pogorelov\Aurhorization 3.0\Aurhorization 3.0\obj\Debug\net6.0-windows\View\ListUserWindow.g.cs
+E:\Praktiks\Pogorelov\Aurhorization 3.0\Aurhorization 3.0\obj\Debug\net6.0-windows\App.g.cs
+E:\Praktiks\Pogorelov\Aurhorization 3.0\Aurhorization 3.0\obj\Debug\net6.0-windows\Aurhorization 3.0_MarkupCompile.cache
+E:\Praktiks\Pogorelov\Aurhorization 3.0\Aurhorization 3.0\obj\Debug\net6.0-windows\Aurhorization 3.0_MarkupCompile.lref
+E:\Praktiks\Pogorelov\Aurhorization 3.0\Aurhorization 3.0\obj\Debug\net6.0-windows\View\AurhorizationWindow.baml
+E:\Praktiks\Pogorelov\Aurhorization 3.0\Aurhorization 3.0\obj\Debug\net6.0-windows\View\ListUserWindow.baml
+E:\Praktiks\Pogorelov\Aurhorization 3.0\Aurhorization 3.0\obj\Debug\net6.0-windows\Aurhorization 3.0.g.resources
+E:\Praktiks\Pogorelov\Aurhorization 3.0\Aurhorization 3.0\obj\Debug\net6.0-windows\Aurhorization 3.0.GeneratedMSBuildEditorConfig.editorconfig
+E:\Praktiks\Pogorelov\Aurhorization 3.0\Aurhorization 3.0\obj\Debug\net6.0-windows\Aurhorization 3.0.AssemblyInfoInputs.cache
+E:\Praktiks\Pogorelov\Aurhorization 3.0\Aurhorization 3.0\obj\Debug\net6.0-windows\Aurhorization 3.0.AssemblyInfo.cs
+E:\Praktiks\Pogorelov\Aurhorization 3.0\Aurhorization 3.0\obj\Debug\net6.0-windows\Aurhorization 3.0.csproj.CoreCompileInputs.cache
+E:\Praktiks\Pogorelov\Aurhorization 3.0\Aurhorization 3.0\obj\Debug\net6.0-windows\Aurhorization 3.0.dll
+E:\Praktiks\Pogorelov\Aurhorization 3.0\Aurhorization 3.0\obj\Debug\net6.0-windows\refint\Aurhorization 3.0.dll
+E:\Praktiks\Pogorelov\Aurhorization 3.0\Aurhorization 3.0\obj\Debug\net6.0-windows\Aurhorization 3.0.pdb
+E:\Praktiks\Pogorelov\Aurhorization 3.0\Aurhorization 3.0\obj\Debug\net6.0-windows\Aurhorization 3.0.genruntimeconfig.cache
+E:\Praktiks\Pogorelov\Aurhorization 3.0\Aurhorization 3.0\obj\Debug\net6.0-windows\ref\Aurhorization 3.0.dll
